@@ -19,3 +19,36 @@ mentioned in this article, you will also be able to fly the drone with all requi
 specific rules and regulations in this article because rules and regulations are subject to change and are operated by
 EASA and Aircraft Authorities.
 
+## Step 1 - Where to look for information?
+
+* [European Union Aviation Safety Agency (EASA)](https://www.easa.europa.eu/)
+  * Source: [Drone Laws in Germany | UAV Coach (2022)](https://uavcoach.com/drone-laws-in-germany/)
+* [Germany | EASA](https://www.easa.europa.eu/light/topics/germany)
+* [Drones (UAS) | EASA](https://www.easa.europa.eu/the-agency/faqs/drones-uas)
+
+## Step 2 - Get started
+
+### Flying a drone - How to be a safe drone pilot | EASA
+
+Source: [Flying a drone - How to be a safe drone pilot | EASA](https://www.easa.europa.eu/light/topics/flying-drone-how-be-safe-drone-pilot)
+
+![Meet Donnie & Paul](files/img/easa_donnie_and_paul.jpg)
+
+Source: [EASA Drones - Safe drone operations - Meet Donnie & Paul | YouTube](https://www.youtube.com/watch?v=l6xHV61jwGo)
+
+## Infographics for Drones | EASA
+
+Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120953/en)
+
+![223229_EASA_DRONE_INFOGRAPHIC_1](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_1.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_2](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_2.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_3](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_3.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_4](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_4.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_5](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_5.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_6](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_6.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_7](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_7.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_8](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_8.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_9](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_9.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_10](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_10.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_11](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_11.gif)
+![223229_EASA_DRONE_INFOGRAPHIC_13](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_13.gif)
