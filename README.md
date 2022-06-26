@@ -61,7 +61,8 @@ Source: [Drones Information Notices | EASA](https://www.easa.europa.eu/document-
 
 #### Civil drones (unmanned aircraft)
 
-Source: [Civil drones (unmanned aircraft) | EASA](https://www.easa.europa.eu/domains/civil-drones)
+* [Civil drones (unmanned aircraft) | EASA](https://www.easa.europa.eu/domains/civil-drones)
+  * [Open Category - Civil Drones | EASA](https://www.easa.europa.eu/domains/civil-drones/drones-regulatory-framework-background/open-category-civil-drones)
 
 ### Step 3 - Drone operators and pilots
 
