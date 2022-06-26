@@ -52,3 +52,7 @@ Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120
 ![223229_EASA_DRONE_INFOGRAPHIC_10](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_10.gif)
 ![223229_EASA_DRONE_INFOGRAPHIC_11](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_11.gif)
 ![223229_EASA_DRONE_INFOGRAPHIC_13](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_13.gif)
+
+## Step 3 - Drone operators and pilots
+
+* [Drone operators & pilots | EASA](https://www.easa.europa.eu/light/topics/drone-operators-pilots)
