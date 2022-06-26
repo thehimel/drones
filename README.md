@@ -38,7 +38,7 @@ Source: [Flying a drone - How to be a safe drone pilot | EASA](https://www.easa.
 
 Source: [EASA Drones - Safe drone operations - Meet Donnie & Paul | YouTube](https://www.youtube.com/watch?v=l6xHV61jwGo)
 
-### Infographics for Drones | EASA
+#### Infographics for Drones | EASA
 
 Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120953/en)
 
@@ -54,6 +54,14 @@ Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120
 ![223229_EASA_DRONE_INFOGRAPHIC_10](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_10.gif)
 ![223229_EASA_DRONE_INFOGRAPHIC_11](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_11.gif)
 ![223229_EASA_DRONE_INFOGRAPHIC_13](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_13.gif)
+
+#### Drones Information Notices
+
+Source: [Drones Information Notices | EASA](https://www.easa.europa.eu/document-library/general-publications/drones-information-notices)
+
+#### Civil drones (unmanned aircraft)
+
+Source: [Civil drones (unmanned aircraft) | EASA](https://www.easa.europa.eu/domains/civil-drones)
 
 ### Step 3 - Drone operators and pilots
 
