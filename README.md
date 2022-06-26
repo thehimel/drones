@@ -19,7 +19,7 @@ mentioned in this article, you will also be able to fly the drone with all requi
 specific rules and regulations in this article because rules and regulations are subject to change and are operated by
 EASA and Aircraft Authorities.
 
-## Gather information
+## Basic information
 
 ### Step 1 - Where to look for information?
 
@@ -30,7 +30,7 @@ EASA and Aircraft Authorities.
 
 ### Step 2 - Get started
 
-#### Flying a drone - How to be a safe drone pilot | EASA
+#### Flying a drone - How to be a safe drone pilot
 
 Source: [Flying a drone - How to be a safe drone pilot | EASA](https://www.easa.europa.eu/light/topics/flying-drone-how-be-safe-drone-pilot)
 
@@ -38,7 +38,7 @@ Source: [Flying a drone - How to be a safe drone pilot | EASA](https://www.easa.
 
 Source: [EASA Drones - Safe drone operations - Meet Donnie & Paul | YouTube](https://www.youtube.com/watch?v=l6xHV61jwGo)
 
-#### Infographics for Drones | EASA
+#### Infographics for Drones
 
 Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120953/en)
 
