@@ -67,6 +67,7 @@ Source: [Drones Information Notices | EASA](https://www.easa.europa.eu/document-
 ### Step 3 - Drone operators and pilots
 
 * [Drone operators & pilots | EASA](https://www.easa.europa.eu/light/topics/drone-operators-pilots)
+* [Operator's guidance for drone pilots | EASA](https://www.easa.europa.eu/light/topics/operators-guidance-drone-pilots)
 * [5 Steps before flying drone in Germany 2021 | Under the Camera in Germany](https://youtu.be/M-FQuPDoE0o)
   * [Badge or License Plate | drohnen.de](https://shop.drohnen.de/laseric/?p=1)
   * [EU drone regulation 2021 / 2022 | drohnen.de](https://www.drohnen.de/20336/drohnen-gesetze-eu/)
