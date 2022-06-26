@@ -89,5 +89,5 @@ Source: [Drones Information Notices | EASA](https://www.easa.europa.eu/document-
 
 ### Step 3 - Training
 
-* [Online pilot training and tests | LBA](https://lba-openuav.de/)
+* [LBA – OpenUAV](https://lba-openuav.de/)
 * [Training](training.md)
