@@ -29,4 +29,5 @@ Source: [Air Law and Safety – LBA – OpenUAV](https://lba-openuav.de/onlineku
 
 * USA = Unmanned Aircraft System
 * AGL = Above Ground Level
+* VLOS = Visual Line of Sight
 * BVLOS = Beyond Visual Line of Sight
