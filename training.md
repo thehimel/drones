@@ -9,16 +9,8 @@ Source: [Air Law and Safety – LBA – OpenUAV](https://lba-openuav.de/onlineku
 
 ### UAS classifications
 
-Source: [UAS Classifications - LBA - OpenUAV](https://lba-openuav.de/onlinekurs/lehrmaterial/luftrecht-und-sicherheit/uas-klassifizierungen/)
-[PDF](files/training/1-air-law-and-safety/1-uas-classifications/uas-classifications.pdf)
-
-#### Unmanned Aircraft System
-
-* USA = Unmanned Aircraft System
-  * An unmanned aerial vehicle is any aircraft that is not operated by an on-board pilot.
-  * This means either that no pilot controls the UAS at all (in the case of autonomously flying drones, drone taxis,
-  packet drones) or that a remote pilot has control of the flight from the ground using a suitable remote control.
-  * Some unmanned aerial vehicles even have passengers on board - and yet they are called unmanned aerial vehicles.
+* Source: [UAS Classifications - LBA - OpenUAV](https://lba-openuav.de/onlinekurs/lehrmaterial/luftrecht-und-sicherheit/uas-klassifizierungen/)
+* [PDF](files/training/1-air-law-and-safety/1-uas-classifications/uas-classifications.pdf)
 
 #### UAS categories
 
@@ -35,5 +27,6 @@ Source: [UAS Classifications - LBA - OpenUAV](https://lba-openuav.de/onlinekurs/
 
 ##### Abbreviations
 
+* USA = Unmanned Aircraft System
 * AGL = Above Ground Level
 * BVLOS = Beyond Visual Line of Sight
