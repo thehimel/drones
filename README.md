@@ -19,16 +19,18 @@ mentioned in this article, you will also be able to fly the drone with all requi
 specific rules and regulations in this article because rules and regulations are subject to change and are operated by
 EASA and Aircraft Authorities.
 
-## Step 1 - Where to look for information?
+## Gather information
+
+### Step 1 - Where to look for information?
 
 * [European Union Aviation Safety Agency (EASA)](https://www.easa.europa.eu/)
   * Source: [Drone Laws in Germany | UAV Coach (2022)](https://uavcoach.com/drone-laws-in-germany/)
 * [Germany | EASA](https://www.easa.europa.eu/light/topics/germany)
 * [Drones (UAS) | EASA](https://www.easa.europa.eu/the-agency/faqs/drones-uas)
 
-## Step 2 - Get started
+### Step 2 - Get started
 
-### Flying a drone - How to be a safe drone pilot | EASA
+#### Flying a drone - How to be a safe drone pilot | EASA
 
 Source: [Flying a drone - How to be a safe drone pilot | EASA](https://www.easa.europa.eu/light/topics/flying-drone-how-be-safe-drone-pilot)
 
@@ -36,7 +38,7 @@ Source: [Flying a drone - How to be a safe drone pilot | EASA](https://www.easa.
 
 Source: [EASA Drones - Safe drone operations - Meet Donnie & Paul | YouTube](https://www.youtube.com/watch?v=l6xHV61jwGo)
 
-## Infographics for Drones | EASA
+### Infographics for Drones | EASA
 
 Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120953/en)
 
@@ -53,6 +55,22 @@ Source: [Infographics for Drones| EASA](https://www.easa.europa.eu/downloads/120
 ![223229_EASA_DRONE_INFOGRAPHIC_11](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_11.gif)
 ![223229_EASA_DRONE_INFOGRAPHIC_13](files/img/infographics_for_drones/GIF_ANIMATIONS/223229_EASA_DRONE_INFOGRAPHIC_13.gif)
 
-## Step 3 - Drone operators and pilots
+### Step 3 - Drone operators and pilots
 
 * [Drone operators & pilots | EASA](https://www.easa.europa.eu/light/topics/drone-operators-pilots)
+* [5 Steps before flying drone in Germany 2021 | Under the Camera in Germany](https://youtu.be/M-FQuPDoE0o)
+  * [Badge or License Plate | drohnen.de](https://shop.drohnen.de/laseric/?p=1)
+  * [EU drone regulation 2021 / 2022 | drohnen.de](https://www.drohnen.de/20336/drohnen-gesetze-eu/)
+  * [The best drone insurance in comparison | drohnen.de](https://www.drohnen.de/32066/versicherungen/)
+* [Getting Drone Training Certificate in Europe (English) | Tareque's Travel Diary](https://youtu.be/5vTwmQdbwNc)
+* [DJI Flight Tips](https://www.dji.com/de/flyingtips/de)
+
+## Apply the knowledge
+
+### Step 1 - Drone Insurance
+
+* [Getsafe drone insurance / drone liability + PHV](https://www.hellogetsafe.com/en-de/p/drone-de0)
+
+### Step 2 - Registration
+
+* [Registration - UAS operator](https://uas-registration.lba-openuav.de/#/registration/uasOperator)
